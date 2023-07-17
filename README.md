@@ -16,4 +16,4 @@ Run these commands:
 or Run by docker compose
 
 test
-
+or run by docker-compose up -d --no -dep web
